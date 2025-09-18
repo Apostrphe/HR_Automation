@@ -1,5 +1,3 @@
-# README.md
-
 # Hired Candidates Email Automation
 
 A UiPath automation workflow that processes hired candidates from an Excel file and sends offer letters via email.
@@ -45,5 +43,6 @@ A UiPath automation workflow that processes hired candidates from an Excel file 
 - Candidate data is added to the processing queue
 
 ## Error Handling
+
 
 The workflow includes comprehensive error handling with logging for troubleshooting any issues during execution.
